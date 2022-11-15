@@ -1,2 +1,2 @@
 # odin-recipes-
-In this project, I will demonstrate basic html skills such as using links, images, body, paragraph, and title tags. We are building a basic recipe website that is pretty barebones and will contain a few links to recipes from different websites. 
+In this project, I will demonstrate basic html skills such as using links, images, body, paragraph, and title tags. We are building a basic recipe website that is pretty barebones and will contain a few links to recipes from different websites. Will use git and github to commit messages throughout the project. 
